@@ -22,6 +22,6 @@ Yet to be decided on this work <br/>
 [Python]: https://img.shields.io/badge/Python-37a779?style=plastic
 [SQL]: https://img.shields.io/badge/SQL-F88379?style=plastic
 [Power BI]: https://img.shields.io/badge/Power%20BI-FDDA0D?style=plastic
-[Airflow]: https://img.shields.io/badge/PostgreSQL-017CEE?style=plastic
-[ML]: https://img.shields.io/badge/Azure-5D3FD3?style=plastic
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-017CEE?style=plastic
+[Azure]: https://img.shields.io/badge/Azure-5D3FD3?style=plastic
 
