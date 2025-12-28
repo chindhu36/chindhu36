@@ -17,11 +17,11 @@ Pipeline to Analyze Energy Usage I am working on it <br/>
 
 [**Azure Event-Driven Data Pipeline**](https://github.com/chindhu36/de_explore_work) <br/>
 Yet to be decided on this work <br/>
-![Python] ![AzureL] ![SQL] <br/>
+![Python] ![Azure] ![SQL] <br/>
 
 [Python]: https://img.shields.io/badge/Python-37a779?style=plastic
 [SQL]: https://img.shields.io/badge/SQL-F88379?style=plastic
 [Power BI]: https://img.shields.io/badge/Power%20BI-FDDA0D?style=plastic
-[Airflow]: https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic
-[ML]: https://img.shields.io/badge/Machine%20Learning-5D3FD3?style=plastic
+[Airflow]: https://img.shields.io/badge/PostgreSQL-017CEE?style=plastic
+[ML]: https://img.shields.io/badge/Azure-5D3FD3?style=plastic
 
