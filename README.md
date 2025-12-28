@@ -1,6 +1,6 @@
 ## Chindhusha Chandran
 - 💼 Experienced Python & Data Prefessional, Currently working as configuration data analyst at Hinkley Point C
-- 🎓 Masters in Computer Applications Bsc in Computer Science
+- 🎓 Masters in Computer Applications and Bsc in Computer Science
 - 📈 Proficient in Python, SQL , Pyspark and Cloud
 
 ##
