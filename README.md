@@ -1,0 +1,27 @@
+## Chindhusha Chandran
+- 💼 Experienced Python & Data Prefessional, Currently working as configuration data analyst at Hinkley Point C
+- 🎓 Masters in Computer Applications Bsc in Computer Science
+- 📈 Proficient in Python, SQL , Pyspark and Cloud
+
+##
+
+### Projects Highlights
+
+[**Sales Analytics Pipeline**](https://github.com/chindhu36/de_explore_work) <br/>
+A real-time simple end-to-end analytics pipeline for sales data. <br/>
+![Python] ![PostgreSQL] ![SQL] <br/>
+
+[**Energy Usage Analytics**](https://github.com/chindhu36/de_explore_work) <br/>
+Pipeline to Analyze Energy Usage I am working on it <br/>
+![Python] ![SQL]  <br/>
+
+[**Azure Event-Driven Data Pipeline**](https://github.com/chindhu36/de_explore_work) <br/>
+Yet to be decided on this work <br/>
+![Python] ![AzureL] ![SQL] <br/>
+
+[Python]: https://img.shields.io/badge/Python-37a779?style=plastic
+[SQL]: https://img.shields.io/badge/SQL-F88379?style=plastic
+[Power BI]: https://img.shields.io/badge/Power%20BI-FDDA0D?style=plastic
+[Airflow]: https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic
+[ML]: https://img.shields.io/badge/Machine%20Learning-5D3FD3?style=plastic
+
