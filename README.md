@@ -20,6 +20,8 @@ Pipeline to Analyze Energy Usage I am working on it <br/>
 Yet to be decided on this work <br/>
 ![Python] ![Azure] ![SQL] <br/>
 
+📫 Contact me @: chindhuchandran36@gmail.com
+
 [Python]: https://img.shields.io/badge/Python-37a779?style=plastic
 [SQL]: https://img.shields.io/badge/SQL-F88379?style=plastic
 [Power BI]: https://img.shields.io/badge/Power%20BI-FDDA0D?style=plastic
