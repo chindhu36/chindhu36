@@ -14,7 +14,7 @@ A real-time simple end-to-end analytics pipeline for sales data. <br/>
 
 [**Energy Usage Analytics**](https://github.com/chindhu36/energy_usage_analytics) <br/> 
 An end-to-end analytics pipeline using dbt, PostgreSQL, and PowerBI, using simulated smart meter energy data. <br/>
-![dbt] ![PowerBI] ![PostgreSQL]  <br/>
+![dbt] ![Power BI] ![PostgreSQL]  <br/>
 
 [**Azure Event-Driven Data Pipeline**](https://github.com/chindhu36/de_explore_work) <br/>
 Yet to be decided on this work <br/>
