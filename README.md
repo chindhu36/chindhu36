@@ -12,7 +12,7 @@
 A real-time simple end-to-end analytics pipeline for sales data. <br/>
 ![Python] ![PostgreSQL] ![SQL] <br/>
 
-[**Energy Usage Analytics**](https://github.com/chindhu36/energy_usage_analytics) <br/> 
+[**Energy Usage Analytics**](https://github.com/chindhu36/energy_usage_analytics)
 An end-to-end analytics pipeline using dbt, PostgreSQL, and PowerBI, using simulated smart meter energy data. <br/>
 ![dbt] ![Power BI] ![PostgreSQL]  <br/>
 
