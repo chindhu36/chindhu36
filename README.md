@@ -8,7 +8,7 @@
 
 ### Projects Highlights
 
-[**Sales Analytics Pipeline**](https://github.com/chindhu36/sales_analytics_pipeline) <br/>     
+[**Sales Analytics Pipeline**](https://github.com/chindhu36/sales_analytics_pipeline)     
 A real-time simple end-to-end analytics pipeline for sales data. <br/>
 ![Python] ![PostgreSQL] ![SQL] <br/>
 
