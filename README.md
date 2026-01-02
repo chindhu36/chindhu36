@@ -8,13 +8,13 @@
 
 ### Projects Highlights
 
-[**Sales Analytics Pipeline**](https://github.com/chindhu36/de_explore_work) <br/>
+[**Sales Analytics Pipeline**](https://github.com/chindhu36/sales_analytics_pipeline) <br/>     
 A real-time simple end-to-end analytics pipeline for sales data. <br/>
 ![Python] ![PostgreSQL] ![SQL] <br/>
 
-[**Energy Usage Analytics**](https://github.com/chindhu36/de_explore_work) <br/>
-Pipeline to Analyze Energy Usage I am working on it <br/>
-![Python] ![SQL]  <br/>
+[**Energy Usage Analytics**](https://github.com/chindhu36/energy_usage_analytics) <br/> 
+An end-to-end analytics pipeline using dbt, PostgreSQL, and PowerBI, using simulated smart meter energy data. <br/>
+![dbt] ![PowerBI] ![PostgreSQL]  <br/>
 
 [**Azure Event-Driven Data Pipeline**](https://github.com/chindhu36/de_explore_work) <br/>
 Yet to be decided on this work <br/>
@@ -27,4 +27,5 @@ Yet to be decided on this work <br/>
 [Power BI]: https://img.shields.io/badge/Power%20BI-FDDA0D?style=plastic
 [PostgreSQL]: https://img.shields.io/badge/PostgreSQL-017CEE?style=plastic
 [Azure]: https://img.shields.io/badge/Azure-5D3FD3?style=plastic
+[dbt]: https://img.shields.io/badge/dbt-5D3786?style=plastic
 
