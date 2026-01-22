@@ -16,9 +16,9 @@ A real-time simple end-to-end analytics pipeline for sales data. <br/>
 An end-to-end analytics pipeline using dbt, PostgreSQL, and PowerBI, using simulated smart meter energy data. <br/>
 ![dbt] ![Power BI] ![PostgreSQL]  <br/>
 
-[**Azure Event-Driven Data Pipeline**](https://github.com/chindhu36/de_explore_work) <br/>
-Yet to be decided on this work <br/>
-![Python] ![Azure] ![SQL] <br/>
+<!--[**Azure Event-Driven Data Pipeline**](https://github.com/chindhu36/de_explore_work) <br/>-->
+<!--#Yet to be decided on this work <br/> -->
+<!--#![Python] ![Azure] ![SQL] <br/> -->
 
 📫 Contact me @: chindhuchandran36@gmail.com
 
